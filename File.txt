@@ -1,2 +1,3 @@
+Bug2 Commit
 adding new test for bug1
 test file 123
