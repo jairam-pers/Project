@@ -1,2 +1,3 @@
-adding new test for bug1
+Master file Changes
+adding new test for bug1  ->
 test file 123
